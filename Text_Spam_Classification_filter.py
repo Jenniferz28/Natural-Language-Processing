@@ -26,7 +26,7 @@ from nltk.corpus import stopwords
 
 
 os.getcwd()
-#'C:\\Users\\quzhou\\OneDrive\\Documents\\Qiong_equinix\\Udemy\\NLP'
+#'C:\\Users\\qz\\OneDrive\\Documents\\NLP'
 os.chdir('C:\\Users\\qz\\OneDrive\\Documents\\NLP')
 
 # (1) Data EDA
