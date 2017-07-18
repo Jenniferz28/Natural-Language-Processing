@@ -1,3 +1,5 @@
+This section if for NLP studies.
+First project :
 # Text-Spam-Filtering-NLP
 Text processing in SMS phone messages using NLTK in python;Deployed a multinomial Naive Bayes classifier to filter out the spam messages
 
